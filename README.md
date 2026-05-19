@@ -1,7 +1,4 @@
-# Academic Project Report: Sports Injury Risk Prediction
-**Course:** Data Mining and Sports Analytics  
-**Project Topic:** Mining Historical Player Data to Predict Ligament Injuries Using Classification  
-**Implementation Environment:** Python 3.12 (VS Code)  
+
 
 ---
 
