@@ -138,3 +138,6 @@ cython_debug/
 
 # Presentation generation prompt
 ppt_prompt.md
+
+# Academic paper in IEEE format
+ieee_paper.md
