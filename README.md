@@ -1,7 +1,4 @@
-# Academic Project Report: Sports Injury Risk Prediction
-**Course:** Data Mining and Sports Analytics  
-**Project Topic:** Mining Historical Player Data to Predict Ligament Injuries Using Classification  
-**Implementation Environment:** Python 3.12 (VS Code)  
+
 
 ---
 
@@ -142,29 +139,11 @@ To ensure the Random Forest model generalized well and was not overfitted to the
 
 ---
 
-## 8. Roles and Responsibilities of the Team Members
 
-For the successful completion of this data mining project, tasks were distributed among the team members as follows:
-
-*   **Member 1 (Project Manager & Domain Expert):**
-    *   Defined the business and clinical problem.
-    *   Conducted domain research on ligament injuries, soccer biomechanics, and sports analytics.
-    *   Coordinated deadlines and drafted the final project presentation.
-*   **Member 2 (Data Engineer):**
-    *   Collected the raw CSV files.
-    *   Designed the preprocessing pipeline (handling string cleanup, scaling, and one-hot encoding).
-    *   Addressed column drop logics and resolved missing values.
-*   **Member 3 (Machine Learning Engineer):**
-    *   Implemented the classification models (Random Forest, Decision Tree, Naive Bayes) in Python.
-    *   Coded the SMOTE pipeline and performed cross-validation checks.
-    *   Generated all result plots and confusion matrices.
-*   **Member 4 (Data Analyst & Technical Writer):**
-    *   Analyzed model comparison tables and plotted the feature importances.
-    *   Compiled results and drafted this comprehensive project report.
 
 ---
 
-## 9. References
+## 8. References
 1. Breiman, L. (2001). Random Forests. *Machine Learning*, 45(1), 5-32.
 2. Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: Synthetic Minority Over-sampling Technique. *Journal of Artificial Intelligence Research*, 16, 321-357.
 3. Pedregosa, F. et al. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, 12, 2825-2830.
